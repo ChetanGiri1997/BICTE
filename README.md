@@ -128,67 +128,25 @@ C# Course Repository
 ├── Unit-8_Final-Project/  
     ├── Final-Project-Application  
   
-# 📋 Progress Tracker  
-  
-Unit
+# 📋 Progress Tracker
 
-Chapter
+| Unit | Chapter                  | Project Status   |
+|------|--------------------------|------------------|
+| I    | Introduction to .NET     | 🟢 Completed     |
+| II   | Fundamentals of C#       | 🟡 In Progress   |
+| III  | OOP Concepts in C#       | 🔴 Not Started   |
+| IV   | Delegates and Strings    | 🔴 Not Started   |
+| V    | Entity Framework and LINQ| 🔴 Not Started   |
+| VI   | ASP.NET and MVC          | 🔴 Not Started   |
+| VII  | Database Programming     | 🔴 Not Started   |
+| VIII | Final Project            | 🔴 Not Started   |
 
-Project Status
 
-I
-
-Introduction to .NET
-
-🟢 Completed
-
-II
-
-Fundamentals of C#
-
-🟡 In Progress
-
-III
-
-OOP Concepts in C#
-
-🔴 Not Started
-
-IV
-
-Delegates and Strings
-
-🔴 Not Started
-
-V
-
-Entity Framework and LINQ
-
-🔴 Not Started
-
-VI
-
-ASP.NET and MVC
-
-🔴 Not Started
-
-VII
-
-Database Programming
-
-🔴 Not Started
-
-VIII
-
-Final Project
-
-🔴 Not Started
-
-🎯 How to Use This Repository
+# 🎯 How to Use This Repository
 
 Clone the Repository:
 
-git clone 
+git clone https://github.com/ChetanGiri1997/BICTE_C-.git
 
 Navigate to a Chapter:
 
@@ -197,7 +155,7 @@ cd Unit-1_Introduction-to-NET
 Open in Visual Studio:
 Open the respective project folder in Visual Studio to begin exploring and coding.
 
-🛠️ Tools and Setup
+# 🛠️ Tools and Setup
 
 IDE: Visual Studio 2022
 
@@ -205,13 +163,10 @@ Framework: .NET 6
 
 Language: C#
 
-👨‍💻 Contributors
+# 👨‍💻 Contributors
 
-This course is developed and maintained by Your Name. Contributions are welcome!
+This course is developed and maintained by Chetan Giri. Contributions are welcome!
 
-📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Start your journey with C# today and unlock the full potential of the .NET framework! 🚀
 
