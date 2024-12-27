@@ -2,9 +2,9 @@
 
 Welcome to the C# Course Repository! This repository is structured to help you master C# and its ecosystem, from the basics to advanced concepts, including .NET Framework, OOP, delegates, LINQ, Entity Framework, and more. Each chapter is a folder containing multiple projects to solidify your learning.
 
-## 📚 Course Syllabus
+# 📚 Course Syllabus
 
-### Unit I: Introduction to .NET
+## Unit I: Introduction to .NET
 
 Objective: Understand the .NET framework, Visual Studio IDE, and project structures.
 
@@ -18,7 +18,7 @@ Visual Studio IDE Overview: Menu bar, Toolbar, Solution Explorer, Toolbox, Outpu
 
 Editor, Format, General, and Docking tabs
 
-Unit II: Fundamentals of C#
+## Unit II: Fundamentals of C#
 
 Objective: Learn the basics of C# programming, including control structures and loops.
 
@@ -34,7 +34,7 @@ Looping Statements: for, foreach, while, do-while
 
 Statements: goto, break, return
 
-Unit III: OOP Concepts in C#
+## Unit III: OOP Concepts in C#
 
 Objective: Dive into object-oriented programming concepts.
 
@@ -52,7 +52,7 @@ Abstract Classes and Interfaces
 
 Method Overloading
 
-Unit IV: Delegates and String Operations
+## Unit IV: Delegates and String Operations
 
 Objective: Understand delegates, lambda expressions, events, and string operations.
 
@@ -66,7 +66,7 @@ String Builder and Regular Expressions
 
 Generic Collections: ArrayList, Stack, Queue, Dictionary, HashTable
 
-Unit V: Entity Framework and LINQ
+## Unit V: Entity Framework and LINQ
 
 Objective: Learn data modeling and query techniques.
 
@@ -76,7 +76,7 @@ Entity Framework: Database First, Code First, Model First
 
 LINQ: Basics and Implementation
 
-Unit VI: ASP.NET and MVC
+## Unit VI: ASP.NET and MVC
 
 Objective: Understand Razor pages, database interaction, and MVC routing.
 
@@ -100,36 +100,36 @@ Stored Procedures and Entity Framework
 
 1-Tier, 2-Tier, and 3-Tier Architectures
 
-Unit VIII: C# Project
+## Unit VIII: C# Project
 
 Objective: Build a real-life application using C#.
 
 Topics: Final project implementation combining all learned concepts.
 
-🚀 Repository Structure
+# 🚀 Repository Structure
 
 Each unit corresponds to a folder in this repository. Within each folder, you will find multiple projects with descriptive names. As the course progresses, this README will be updated with links to the respective chapters.
 
-C# Course Repository
-│
-├── Unit-1_Introduction-to-NET/
-│   ├── Project-1_NET-Architecture
-│   ├── Project-2_IDE-Overview
-│
-├── Unit-2_Fundamentals-of-CSharp/
-│   ├── Project-1_Control-Structures
-│   ├── Project-2_Loops
-│
-├── Unit-3_OOP-Concepts/
-│   ├── Project-1_Classes-and-Objects
-│   ├── Project-2_Inheritance
-│
-...
-├── Unit-8_Final-Project/
-    ├── Final-Project-Application
-
-📋 Progress Tracker
-
+C# Course Repository  
+│  
+├── Unit-1_Introduction-to-NET/  
+│   ├── Project-1_NET-Architecture  
+│   ├── Project-2_IDE-Overview  
+│  
+├── Unit-2_Fundamentals-of-CSharp/  
+│   ├── Project-1_Control-Structures  
+│   ├── Project-2_Loops  
+│ 
+├── Unit-3_OOP-Concepts/  
+│   ├── Project-1_Classes-and-Objects  
+│   ├── Project-2_Inheritance  
+│  
+...  
+├── Unit-8_Final-Project/  
+    ├── Final-Project-Application  
+  
+# 📋 Progress Tracker  
+  
 Unit
 
 Chapter
