@@ -168,5 +168,5 @@ Language: C#
 This course is developed and maintained by Chetan Giri. Contributions are welcome!
 
 
-Start your journey with C# today and unlock the full potential of the .NET framework! # 🚀
+# Start your journey with C# today and unlock the full potential of the .NET framework!  🚀
 
