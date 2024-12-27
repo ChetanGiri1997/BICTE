@@ -6,105 +6,105 @@ Welcome to the C# Course Repository! This repository is structured to help you m
 
 ## Unit I: Introduction to .NET
 
-Objective: Understand the .NET framework, Visual Studio IDE, and project structures.
+<b>Objective: Understand the .NET framework, Visual Studio IDE, and project structures.</b>
 
-Topics:
+<b>Topics:</b>
 
-.NET Framework and Architecture
+* .NET Framework and Architecture
 
-Common Language Runtime, Class Library, Languages
+* Common Language Runtime, Class Library, Languages
 
-Visual Studio IDE Overview: Menu bar, Toolbar, Solution Explorer, Toolbox, Output Window
+* Visual Studio IDE Overview: Menu bar, Toolbar, Solution Explorer, Toolbox, Output Window
 
-Editor, Format, General, and Docking tabs
+* Editor, Format, General, and Docking tabs
 
 ## Unit II: Fundamentals of C#
 
-Objective: Learn the basics of C# programming, including control structures and loops.
+<b> Objective: Learn the basics of C# programming, including control structures and loops.
 
-Topics:
+Topics:</b>
 
-Structure of C# Program
+* Structure of C# Program
 
-C# Console, Variables, and Data Types
+* C# Console, Variables, and Data Types
 
-Control Statements: If, Switch
+* Control Statements: If, Switch
 
-Looping Statements: for, foreach, while, do-while
+* Looping Statements: for, foreach, while, do-while
 
-Statements: goto, break, return
+* Statements: goto, break, return
 
 ## Unit III: OOP Concepts in C#
 
-Objective: Dive into object-oriented programming concepts.
+<b>Objective: Dive into object-oriented programming concepts.
 
-Topics:
+Topics:</b>
 
-Classes, Structs, and Methods
+* Classes, Structs, and Methods
 
-Constructors, Overloading, and Destructors
+* Constructors, Overloading, and Destructors
 
-Static Classes and Methods
+* Static Classes and Methods
 
-Encapsulation and Inheritance
+* Encapsulation and Inheritance
 
-Abstract Classes and Interfaces
+* Abstract Classes and Interfaces
 
-Method Overloading
+* Method Overloading
 
 ## Unit IV: Delegates and String Operations
 
-Objective: Understand delegates, lambda expressions, events, and string operations.
+<b>Objective: Understand delegates, lambda expressions, events, and string operations.
 
-Topics:
+Topics:</b>
 
-Delegates and Events
+* Delegates and Events
 
-Lambda Expressions
+* Lambda Expressions
 
-String Builder and Regular Expressions
+* String Builder and Regular Expressions
 
-Generic Collections: ArrayList, Stack, Queue, Dictionary, HashTable
+* Generic Collections: ArrayList, Stack, Queue, Dictionary, HashTable
 
 ## Unit V: Entity Framework and LINQ
 
-Objective: Learn data modeling and query techniques.
+<b> Objective: Learn data modeling and query techniques.
 
-Topics:
+Topics:</b>
 
-Entity Framework: Database First, Code First, Model First
+* Entity Framework: Database First, Code First, Model First
 
-LINQ: Basics and Implementation
+* LINQ: Basics and Implementation
 
 ## Unit VI: ASP.NET and MVC
 
-Objective: Understand Razor pages, database interaction, and MVC routing.
+<b> Objective: Understand Razor pages, database interaction, and MVC routing.
 
-Topics:
+Topics:</b>
 
-Razor C#: Variables, Loops, Logic
+* Razor C#: Variables, Loops, Logic
 
-Database Interaction and Routing Attributes
+* Database Interaction and Routing Attributes
 
 Unit VII: Database Programming
 
-Objective: Master ADO.NET and multi-tier architecture.
+</b>Objective: Master ADO.NET and multi-tier architecture.
 
-Topics:
+Topics:</b>
 
-ADO.NET, DataSet, DataTable
+* ADO.NET, DataSet, DataTable
 
-Database Classes: SqlConnection, SqlCommand, SqlTransaction
+* Database Classes: SqlConnection, SqlCommand, SqlTransaction
 
-Stored Procedures and Entity Framework
+* Stored Procedures and Entity Framework
 
-1-Tier, 2-Tier, and 3-Tier Architectures
+* 1-Tier, 2-Tier, and 3-Tier Architectures
 
 ## Unit VIII: C# Project
 
-Objective: Build a real-life application using C#.
+</b>Objective: Build a real-life application using C#.
 
-Topics: Final project implementation combining all learned concepts.
+Topics: Final project implementation combining all learned concepts.,/b>
 
 # 🚀 Repository Structure
 
