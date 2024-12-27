@@ -88,7 +88,7 @@ Topics:</b>
 
 ## Unit VII: Database Programming
 
-</b>Objective: Master ADO.NET and multi-tier architecture.
+<b>Objective: Master ADO.NET and multi-tier architecture.
 
 Topics:</b>
 
@@ -104,7 +104,7 @@ Topics:</b>
 
 </b>Objective: Build a real-life application using C#.
 
-Topics: Final project implementation combining all learned concepts.,/b>
+Topics: Final project implementation combining all learned concepts.</b>
 
 # 🚀 Repository Structure
 
